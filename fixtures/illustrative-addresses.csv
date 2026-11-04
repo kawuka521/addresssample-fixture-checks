@@ -1,0 +1,7 @@
+﻿Street,City,State,ZIP,Country,LocationSource,License,StreetType,FirstName,LastName,Gender,Phone,FullAddress
+1 Fixture Street,Example locality,MA,00123,United States,Original illustrative fixtures https://example.invalid/fixtures/us-1,Demonstration fixture; not a postal dataset https://example.invalid/fixture-terms,illustrative fixture,,,,,"1 Fixture Street
+Example locality, MA 00123
+United States"
+"2, Rue ""Demo""",Démo,QC,A1A 1A1,Canada,Original illustrative fixtures https://example.invalid/fixtures/ca-1,Demonstration fixture; not a postal dataset https://example.invalid/fixture-terms,illustrative fixture,,,,,"2, Rue ""Demo""
+Démo QC A1A 1A1
+Canada"

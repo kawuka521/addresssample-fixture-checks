@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "fixtureNotice": "Wholly invented regression fixtures, not exports from a postal dataset. Codes and localities are not asserted to match or be assigned. No third-party records are redistributed.",
+  "exportedAt": "2026-11-03T00:00:00Z",
+  "locationSource": "Original illustrative fixtures",
+  "sources": [
+    {"countryCode":"US","source":"Original illustrative fixtures","license":"Demonstration fixture; not a postal dataset","licenseUrl":"https://example.invalid/fixture-terms"},
+    {"countryCode":"CA","source":"Original illustrative fixtures","license":"Demonstration fixture; not a postal dataset","licenseUrl":"https://example.invalid/fixture-terms"}
+  ],
+  "addresses": [
+    {
+      "countryCode":"US","country":"United States","state":"MA","stateName":"Massachusetts","city":"Example locality","street":"1 Fixture Street","zip":"00123",
+      "sourceFullAddress":"1 Fixture Street\nExample locality, MA 00123\nUnited States",
+      "premisesId":"illustrative-us-1","sourceType":"illustrative-fixture","sourceVersion":"fixture-v1","sourceId":"demo/us-1","sourceRecordUrl":"https://example.invalid/fixtures/us-1"
+    },
+    {
+      "countryCode":"CA","country":"Canada","state":"QC","stateName":"Quebec","city":"Démo","street":"2, Rue \"Demo\"","zip":"A1A 1A1",
+      "sourceFullAddress":"2, Rue \"Demo\"\nDémo QC A1A 1A1\nCanada",
+      "premisesId":"illustrative-ca-1","sourceType":"illustrative-fixture","sourceVersion":"fixture-v1","sourceId":"demo/ca-1","sourceRecordUrl":"https://example.invalid/fixtures/ca-1"
+    }
+  ]
+}
